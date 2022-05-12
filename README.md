@@ -19,3 +19,5 @@ Spraw aby:
 ### Punkty bonusowe
 
 - I tak jest dość trudno ;)
+
+live https://stackblitz.com/edit/dragndrop1-articles-hsny75?file=index.js
